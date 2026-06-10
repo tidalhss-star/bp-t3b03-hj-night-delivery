@@ -1,21 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://t3b03-hj-night-delivery.pages.dev/</loc>
-    <lastmod>2026-05-28</lastmod>
+    <loc>https://tidalhss-star.github.io/bp-t3b03-hj-night-delivery/</loc>
+    <lastmod>2026-06-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://t3b03-hj-night-delivery.pages.dev/about.html</loc>
-    <lastmod>2026-05-28</lastmod>
+    <loc>https://tidalhss-star.github.io/bp-t3b03-hj-night-delivery/posts/review-001.html</loc>
+    <lastmod>2026-06-05</lastmod>
     <changefreq>weekly</changefreq>
-    <priority>0.7</priority>
+    <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://t3b03-hj-night-delivery.pages.dev/feed.xml</loc>
-    <lastmod>2026-05-28</lastmod>
-    <changefreq>daily</changefreq>
+    <loc>https://tidalhss-star.github.io/bp-t3b03-hj-night-delivery/posts/review-002-s9ek01.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tidalhss-star.github.io/bp-t3b03-hj-night-delivery/posts/review-002.html</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tidalhss-star.github.io/bp-t3b03-hj-night-delivery/posts/t3link-001-s9ek01.html</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://tidalhss-star.github.io/bp-t3b03-hj-night-delivery/feed.xml</loc>
+    <lastmod>2026-06-10</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
